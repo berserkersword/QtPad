@@ -1,3 +1,3 @@
 # **QtPad**
 
-![plot]{./assets/image.png}
+![plot](./assets/image.png)
