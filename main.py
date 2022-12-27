@@ -49,7 +49,7 @@ class MainWindow(QMainWindow):
 
         # setting stats bar to the window
         self.setStatusBar(self.status)
-
+        self.setWindowIcon(QIcon("./assets/icon.png"))
         # creating a file tool bar
         file_toolbar = QToolBar("File")
 
